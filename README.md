@@ -1,6 +1,6 @@
 # TeddyBearGame
 Teddy bear shoot em up
 
-This is a Game, I made for the course on Coursera "Beginning Game programming in C#"
+This game was made during the course called: "Beginning Game programming in C#" on Coursera
 
 ![alt tag](https://preview.ibb.co/eSqYbF/CMcdlSS.png)
